@@ -52,7 +52,7 @@ footer {
 """
 
 LOGO_MARKDOWN = f"""
-### APJ Architecture & Platform Advisory
+### Chandra
 ![Platform & Integration Labs](file/img/blue.svg)
 """
 
